@@ -1,0 +1,6 @@
+{
+  "name": "Neon Strike Launcher",
+  "description": "Fullscreen cyberpunk game start menu featuring interactive key remapping, retro graphics, and a playable character test chamber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
